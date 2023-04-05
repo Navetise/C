@@ -14,7 +14,7 @@ int main() {
        printf("Triangulo isosceles");
      }
        else {
-       printf("Triangulo escaleno");
+        printf("Triangulo escaleno");
      }
   return 0;
 }
